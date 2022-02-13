@@ -92,3 +92,12 @@ header li+li {
 .products li a{
     display: block;
 }
+
+.products .more {
+    display: block;
+    width: 70%;
+    line-height: 48px;
+    border: 2px solid ;
+    text-align: center;
+    margin: 20px auto;
+}
